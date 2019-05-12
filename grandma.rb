@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(String)
 if String.upcase ==
   
 # Whatever you say to grandma, she should respond with
