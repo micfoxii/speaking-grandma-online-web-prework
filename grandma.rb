@@ -1,5 +1,13 @@
-# Write a speak_to_grandma method.
+speak_to_grandma="I LOVE YOU GRANDMA!"
+if speak_to_grandma =="I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
+elsif speak == speak.upcase
+    puts "NO, NOT SINCE 1938!"
+else speak == speak.capitalize
+  puts "HUH?! SPEAK UP, SONNY!"
+end
 
+  
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
