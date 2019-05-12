@@ -1,5 +1,5 @@
-def speak_to_grandma(Str)
-if Str.capitalize
+def speak_to_grandma(String)
+if String.capitalize
   "HUH? SPEAK UP, SONNY!"
   
 # Whatever you say to grandma, she should respond with
