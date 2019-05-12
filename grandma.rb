@@ -1,12 +1,13 @@
 def speak_to_grandma(str)
   if str == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
+  elsif str.capitalize
+    "HUH?! SPEAK UP, SONNY!"
   elsif str.upcase
     "NO, NOT SINCE 1938!"
   elsif str == "WHAT?"
     "HUH?! SPEAK UP, SONNY!"
-  elsif str.capitalize
-    "HUH?! SPEAK UP, SONNY!"
+
 end
 end
 # Whatever you say to grandma, she should respond with
