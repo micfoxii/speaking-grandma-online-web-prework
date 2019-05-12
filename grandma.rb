@@ -3,7 +3,7 @@ def speak_to_grandma(str)
     "NO, NOT SINCE 1938!"
   elsif str.capitalize
     "HUH?! SPEAK UP, SONNY!"
-  elsif
+  elsif str
 end
 end
 # Whatever you say to grandma, she should respond with
