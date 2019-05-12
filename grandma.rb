@@ -1,10 +1,10 @@
 speak_to_grandma="I LOVE YOU GRANDMA!"
 if speak_to_grandma =="I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
+  "I LOVE YOU TOO PUMPKIN!"
 elsif speak == speak.upcase
-    puts "NO, NOT SINCE 1938!"
+  "NO, NOT SINCE 1938!"
 else speak == speak.capitalize
-  puts "HUH?! SPEAK UP, SONNY!"
+  "HUH?! SPEAK UP, SONNY!"
 end
 
   
