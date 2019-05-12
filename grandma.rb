@@ -1,8 +1,8 @@
 def speak_to_grandma(str)
   if string.upcase
-    "NO, NOT SINCE 1938!str.capitalize
-    "HUH?! SPEAK UP, SONNY!"
-  elsif "
+    "NO, NOT SINCE 1938!"
+  elsif "str.capitalize
+    "HUH?! SPEAK UP, SONNY!
 end
 end
 # Whatever you say to grandma, she should respond with
