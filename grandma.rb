@@ -1,5 +1,5 @@
 def speak_to_grandma(Str)
-if Str.upcase
+if Str.capit
   
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
